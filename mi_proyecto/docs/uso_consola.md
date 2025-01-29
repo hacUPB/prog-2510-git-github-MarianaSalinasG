@@ -19,4 +19,4 @@ tipo, mediante el comando: `touch nombre_del_archivo`.
 -  `rm`: Tiene la función de eliminar archivos, mediante el comando: `rm nombre_del_archivo`.
 - `vim`: Es un editor de texto, puede editar archivos `.py` o `.txt`. La plataforma Git tiene un editor de texto ya preestablecido por lo que este comando nos abre tal editor.
 - `code`: Este también es un editor de texto pero está enlazado con la plataforma Visual Studio Code.
-- `Cat`: Es un lector o una previsualización de lo que contienen los archivos de texto.
+- `Cat`: Es un lector o una previsualización de lo que contienen los archivos de texto.u

@@ -2,9 +2,10 @@
 
 Necesitamos claramente una cuenta de GitHub o alguna plataforma que relice la misma función, para este caso emplearemos **GitHub** la plataforma con la que trabajamos.
 
-Estando en la página de GitHub en el icono de laprte superior derecha ``+``, escogemos la opción ``New Repository``, en este espacio puedes darle carcterísticas propias al repositorio como: **Nombre, lenguaje y privacidad**. 
+Estando en la página de GitHub en el icono de laprte superior derecha ``+``, escogemos la opción ``New Repository``, 
 
 
+en este espacio puedes darle carcterísticas propias al repositorio como: **Nombre, lenguaje y privacidad**. 
 
 Una vez estemos dentro del repositorio que queremos enlazar con el directorio local, en la página de GitHub encontraremos un link propio del repositorio, debemos copiarlo y codificar en la consola de la siguiente manera:
 ``git remote add origin https://github.com/usuario_personal/simulacion.git``. De este modo se conectará el repositorio con el directorio ya escogido.

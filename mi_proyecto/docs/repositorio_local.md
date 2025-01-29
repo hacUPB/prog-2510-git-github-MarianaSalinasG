@@ -26,4 +26,4 @@ Nothing to commit (create/copy files and use "git add" to track)
 ```
 En el repositorio se puede hacer uso de todos los comandos explicados previamente como: ``touch``. Es importante agregar todos los archivos con cambios al **staging area**, con ayuda del comando `git add` si se escribe `git add .` se llevan a esa área todos los archivos del directorio donde se ubica.  
 
-Es muy importante el uso de las confirmaciones o los commits, que permite guardar los cambios realizados al repositorio mediante el comando `git commit -m "Descripciópn de la accion realizada"`, guardando en el repositorio la versión de todos los archivos que tenemos en la zona de **Stage**. 
+Es muy importante el uso de las confirmaciones o los commits, que permite guardar los cambios realizados al repositorio mediante el comando `git commit -m "Descripciópn de la accion realizada"`, guardando en el repositorio la versión de todos los archivos que tenemos en la zona de **Stage**.  
