@@ -4,7 +4,7 @@ Necesitamos claramente una cuenta de GitHub o alguna plataforma que relice la mi
 
 Estando en la página de GitHub en el icono de laprte superior derecha ``+``, escogemos la opción ``New Repository``, en este espacio puedes darle carcterísticas propias al repositorio como: **Nombre, lenguaje y privacidad**. 
 
-<img src= "Captura de pantalla 2025-01-29 a la(s) 14.18.38.png">
+
 
 Una vez estemos dentro del repositorio que queremos enlazar con el directorio local, en la página de GitHub encontraremos un link propio del repositorio, debemos copiarlo y codificar en la consola de la siguiente manera:
 ``git remote add origin https://github.com/usuario_personal/simulacion.git``. De este modo se conectará el repositorio con el directorio ya escogido.
@@ -19,3 +19,4 @@ Si se desea sincronizar remoto debemos utilizar el comando ``push`` que se encar
 
 Para finalizar, ``git status`` nos permite asegurarnos de que ambos repositorios estan hilados a el mismo commit.
 De este modo todos los repositorios estarían sincronizados en la plataforma GitHub.  
+
