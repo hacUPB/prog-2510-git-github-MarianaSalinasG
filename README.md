@@ -12,6 +12,7 @@ Evidencia el buen uso de los comandos y pone a prueba nuestras capacidades, lo q
 
 Para clonar un repositorio desde la pagina web de debemos dirigirnos al código y presionar el botón verde ``<> Code``, allí podremos copiar la dirección URL de nuestro repositorio.
 
+![](mi_proyecto/images/Clone.png)
 
 Después desde la terminal, con el comando ``git clone`` seguido de la URL del repositorio y tocando la tecla enter se ejecuta y se crea el clon local del mismo.
 
