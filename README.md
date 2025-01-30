@@ -12,22 +12,29 @@ Evidencia el buen uso de los comandos y pone a prueba nuestras capacidades, lo q
 
 Para clonar un repositorio desde la pagina web de debemos dirigirnos al código y presionar el botón verde ``<> Code``, allí podremos copiar la dirección URL de nuestro repositorio.
 
-![](mi_proyecto/images/Clone.png)
+![](images/Clone.png)
 
 Después desde la terminal, con el comando ``git clone`` seguido de la URL del repositorio y tocando la tecla enter se ejecuta y se crea el clon local del mismo.
 
+Ahora si deseamos ejecutar el proyecto debemos asegurarnos de tener **Phyton** instalado en nuestro dispositivo y debemos verificar que se encuentre ejecutado en la terminal con ayuda de los comandos ``python3 --version``.
+Desde la terminal con los comandos cd debemos dirigirnos hasta el directorio donde está presente el script de Python.
+
+Estando allí debemos utilizar el comando ``python3`` seguido del nombre del archivo de configuración script, así: **``python3 script.py``**.  
+
+Y así es como logramos ejecutar el script o un proyecto que tengamos en nuestro repositorio.
+
 ## Tabla de contenido de el proyecto.
-[Carpeta_mi_proyecto](mi_proyecto)
-- [Carpeta_Docs](mi_proyecto/docs)
-  - [Repositorio_local](mi_proyecto/docs/repositorio_local.md)
-  - [Reppositorio_remoto](mi_proyecto/docs/repositorio_remoto.md)
-  - [Uso_Consola](mi_proyecto/docs/uso_consola.md)
 
-- [Carpeta_Images](mi_proyecto/images)
+- [Carpeta_Docs](docs/)
+  - [Repositorio_local](docs/repositorio_local.md)
+  - [Repositorio_remoto](docs/repositorio_remoto.md)
+  - [Uso_Consola](docs/uso_consola.md)
 
-- [Carpeta_src](mi_proyecto/src)
-  - [Codigo_py](mi_proyecto/src/codigo.py)
-- [GitIgnore](mi_proyecto/.gitignore)
+- [Carpeta_Images](images)
+
+- [Carpeta_src](src)
+  - [Codigo_py](src/codigo.py)
+- [GitIgnore](.gitignore)
 
 [README](README.md)
 
