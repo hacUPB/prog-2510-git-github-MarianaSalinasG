@@ -4,6 +4,7 @@ Necesitamos claramente una cuenta de GitHub o alguna plataforma que relice la mi
 
 Estando en la página de GitHub en el icono de laprte superior derecha ``+``, escogemos la opción ``New Repository``, 
 
+![holi](../images/repo.png)
 
 en este espacio puedes darle carcterísticas propias al repositorio como: **Nombre, lenguaje y privacidad**. 
 
